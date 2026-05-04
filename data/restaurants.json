@@ -1,6 +1,6 @@
 {
     "generatedFrom":  "D:\\gim\\food-web-deploy\\food-data.xlsx",
-    "generatedAt":  "2026-05-04T16:40:45",
+    "generatedAt":  "2026-05-04T16:54:02",
     "schemaVersion":  2,
     "restaurants":  [
                         {
@@ -1479,6 +1479,57 @@
                             "closedNote":  "",
                             "source":  "",
                             "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "漢朝鍋物",
+                            "name":  "漢朝鍋物",
+                            "region":  "新竹縣竹北市",
+                            "city":  "新竹縣",
+                            "district":  "竹北市",
+                            "address":  "新竹縣竹北市成功八路231號",
+                            "latitude":  24.8153,
+                            "longitude":  121.0261,
+                            "mapUrl":  "https://www.google.com/maps/search/?api=1\u0026query=漢朝鍋物+新竹縣竹北市成功八路231號",
+                            "category":  "",
+                            "recommended":  "多汁的鴨血豆腐、口感豐富的滑嫩牛、以及處理得宜的香滷三寶",
+                            "notes":  "餐廳以「浮誇」的擺盤為特色（如海鮮摩天輪、肉片圓環",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "休息"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-14:00",
+                                                                 "17:00-22:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-14:00",
+                                                                   "17:00-22:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-14:00",
+                                                                  "17:00-22:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-22:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:00-14:00",
+                                                                  "17:00-22:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-22:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "https://www.facebook.com/share/r/1JHM5mrvv1/?mibextid=wwXIfr",
                             "dataStatus":  "",
                             "lastVerified":  "",
                             "dataIssues":  [
