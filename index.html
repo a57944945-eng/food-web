@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>出遊美食查詢</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="toolbar" aria-label="查詢工具">
+        <div>
+          <p class="eyebrow">Personal food map</p>
+          <h1>出遊美食查詢</h1>
+        </div>
+        <button id="locateBtn" type="button">定位附近</button>
+      </section>
+
+      <section class="filters" aria-label="篩選條件">
+        <label>
+          <span>搜尋</span>
+          <input id="searchInput" type="search" placeholder="店名、餐點、地址">
+        </label>
+        <label>
+          <span>區域</span>
+          <select id="regionSelect"></select>
+        </label>
+        <label>
+          <span>分類</span>
+          <select id="categorySelect"></select>
+        </label>
+        <label class="switch">
+          <input id="openNowOnly" type="checkbox">
+          <span>只看現在營業</span>
+        </label>
+      </section>
+
+      <section class="status" aria-live="polite">
+        <strong id="resultCount">載入中</strong>
+        <span id="locationStatus">尚未定位</span>
+      </section>
+
+      <section id="dataWarning" class="warning" hidden></section>
+      <section id="list" class="list" aria-label="美食清單"></section>
+    </main>
+
+    <template id="restaurantTemplate">
+      <article class="card">
+        <div class="cardHeader">
+          <div>
+            <h2></h2>
+            <p class="meta"></p>
+          </div>
+          <span class="distance"></span>
+        </div>
+        <p class="recommend"></p>
+        <p class="notes"></p>
+        <div class="badges"></div>
+      </article>
+    </template>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
