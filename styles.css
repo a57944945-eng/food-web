@@ -58,7 +58,7 @@ button {
 
 .filters {
   display: grid;
-  grid-template-columns: 1.4fr 1fr 1fr auto;
+  grid-template-columns: 1.4fr 1fr 1fr 1fr auto;
   gap: 12px;
   align-items: end;
   padding: 16px;

@@ -1,9 +1,12 @@
+const ALL = "全部";
+
 const state = {
   restaurants: [],
   userLocation: null,
   search: "",
-  region: "全部",
-  category: "全部",
+  region: ALL,
+  category: ALL,
+  maxDistanceKm: "all",
   openNowOnly: false,
 };
 
@@ -16,6 +19,7 @@ const els = {
   searchInput: document.querySelector("#searchInput"),
   regionSelect: document.querySelector("#regionSelect"),
   categorySelect: document.querySelector("#categorySelect"),
+  distanceSelect: document.querySelector("#distanceSelect"),
   openNowOnly: document.querySelector("#openNowOnly"),
   dataWarning: document.querySelector("#dataWarning"),
 };
@@ -48,6 +52,14 @@ function bindEvents() {
     render();
   });
 
+  els.distanceSelect.addEventListener("change", (event) => {
+    state.maxDistanceKm = event.target.value;
+    if (state.maxDistanceKm !== "all" && !state.userLocation) {
+      els.locationStatus.textContent = "請先按定位附近";
+    }
+    render();
+  });
+
   els.openNowOnly.addEventListener("change", (event) => {
     state.openNowOnly = event.target.checked;
     render();
@@ -70,10 +82,11 @@ function filteredRestaurants() {
       .join(" ")
       .toLowerCase();
     const matchesSearch = !state.search || haystack.includes(state.search);
-    const matchesRegion = state.region === "全部" || item.region === state.region;
-    const matchesCategory = state.category === "全部" || item.category === state.category;
+    const matchesRegion = state.region === ALL || item.region === state.region;
+    const matchesCategory = state.category === ALL || item.category === state.category;
     const matchesOpen = !state.openNowOnly || isOpenNow(item);
-    return matchesSearch && matchesRegion && matchesCategory && matchesOpen;
+    const matchesDistance = isWithinDistance(item);
+    return matchesSearch && matchesRegion && matchesCategory && matchesOpen && matchesDistance;
   });
 }
 
@@ -109,7 +122,7 @@ function renderDataWarning(items) {
 }
 
 function fillSelect(select, values) {
-  select.replaceChildren(...["全部", ...values].map((value) => {
+  select.replaceChildren(...[ALL, ...values].map((value) => {
     const option = document.createElement("option");
     option.value = value;
     option.textContent = value;
@@ -149,7 +162,7 @@ function locateUser() {
 function sortByDistance(a, b) {
   const da = distanceFromUser(a);
   const db = distanceFromUser(b);
-  if (da === null && db === null) return a.id - b.id;
+  if (da === null && db === null) return String(a.id).localeCompare(String(b.id), "zh-Hant");
   if (da === null) return 1;
   if (db === null) return -1;
   return da - db;
@@ -162,7 +175,15 @@ function distanceLabel(item) {
 
 function distanceFromUser(item) {
   if (!state.userLocation || item.latitude === null || item.longitude === null) return null;
+  if (!Number.isFinite(item.latitude) || !Number.isFinite(item.longitude)) return null;
   return haversineKm(state.userLocation, item);
+}
+
+function isWithinDistance(item) {
+  if (state.maxDistanceKm === "all") return true;
+  const distance = distanceFromUser(item);
+  if (distance === null) return false;
+  return distance <= Number(state.maxDistanceKm);
 }
 
 function haversineKm(a, b) {
