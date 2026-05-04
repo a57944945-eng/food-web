@@ -1,53 +1,8 @@
 {
-    "generatedFrom":  "D:\\gim\\food-web\\food-data.xlsx",
-    "generatedAt":  "2026-05-04T13:18:46",
+    "generatedFrom":  "D:\\gim\\food-web-deploy\\food-data.xlsx",
+    "generatedAt":  "2026-05-04T14:30:26",
     "schemaVersion":  2,
     "restaurants":  [
-                        {
-                            "id":  "木心炸蛋臭豆腐",
-                            "name":  "木心炸蛋臭豆腐",
-                            "region":  "新竹市東區",
-                            "city":  "新竹市",
-                            "district":  "東區",
-                            "address":  "新竹市東區民族路33之6號",
-                            "latitude":  24.805822,
-                            "longitude":  120.974011,
-                            "mapUrl":  "https://www.google.com/maps/place/木心炸蛋臭豆腐/",
-                            "category":  "",
-                            "recommended":  "爆汁臭豆腐配酥脆炸蛋",
-                            "notes":  "咬下會爆汁，搭配酥脆炸蛋。",
-                            "openingHours":  {
-                                                 "monday":  [
-                                                                "10:30-20:00"
-                                                            ],
-                                                 "tuesday":  [
-                                                                 "10:30-20:00"
-                                                             ],
-                                                 "wednesday":  [
-                                                                   "10:30-20:00"
-                                                               ],
-                                                 "thursday":  [
-                                                                  "10:30-20:00"
-                                                              ],
-                                                 "friday":  [
-                                                                "10:30-20:00"
-                                                            ],
-                                                 "saturday":  [
-                                                                  "10:30-20:00"
-                                                              ],
-                                                 "sunday":  [
-
-                                                            ]
-                                             },
-                            "closedNote":  "",
-                            "source":  "",
-                            "sourceUrl":  "",
-                            "dataStatus":  "",
-                            "lastVerified":  "2026-05-04",
-                            "dataIssues":  [
-
-                                           ]
-                        },
                         {
                             "id":  "劉家現炒",
                             "name":  "劉家現炒",
