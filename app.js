@@ -98,7 +98,12 @@ function renderCard(item) {
   node.querySelector(".notes").textContent = item.notes || "";
   node.querySelector(".distance").textContent = distanceLabel(item);
 
-  node.append(mapLink(item));
+  const actions = document.createElement("div");
+  actions.className = "cardActions";
+  actions.append(mapLink(item));
+  const video = videoLink(item);
+  if (video) actions.append(video);
+  node.append(actions);
 
   const badges = node.querySelector(".badges");
   badges.append(badge(item.category || "未分類"));
@@ -257,6 +262,17 @@ function mapLink(item) {
   link.target = "_blank";
   link.rel = "noopener noreferrer";
   link.textContent = "Google Maps";
+  return link;
+}
+
+function videoLink(item) {
+  if (!item.sourceUrl) return null;
+  const link = document.createElement("a");
+  link.className = "videoLink";
+  link.href = item.sourceUrl;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.textContent = "影片連結";
   return link;
 }
 

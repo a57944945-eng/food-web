@@ -169,7 +169,14 @@ h2 {
   color: #42433f;
 }
 
-.mapLink {
+.cardActions {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 8px;
+}
+
+.mapLink,
+.videoLink {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -182,7 +189,12 @@ h2 {
   text-decoration: none;
 }
 
-.mapLink:focus-visible {
+.videoLink {
+  background: #8a3d3a;
+}
+
+.mapLink:focus-visible,
+.videoLink:focus-visible {
   outline: 3px solid #8bb7ff;
   outline-offset: 2px;
 }
