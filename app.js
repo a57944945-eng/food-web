@@ -232,14 +232,20 @@ function badge(text, isIssue = false) {
 function mapLink(item) {
   const link = document.createElement("a");
   link.className = "mapLink";
-  link.href = item.mapUrl || googleMapsSearchUrl(item);
+  link.href = googleMapsUrl(item);
   link.target = "_blank";
   link.rel = "noopener noreferrer";
   link.textContent = "Google Maps";
   return link;
 }
 
-function googleMapsSearchUrl(item) {
+function googleMapsUrl(item) {
   const query = [item.name, item.address].filter(Boolean).join(" ");
-  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+  if (query) return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+
+  if (Number.isFinite(item.latitude) && Number.isFinite(item.longitude)) {
+    return `https://www.google.com/maps/search/?api=1&query=${item.latitude},${item.longitude}`;
+  }
+
+  return item.mapUrl || "https://www.google.com/maps";
 }

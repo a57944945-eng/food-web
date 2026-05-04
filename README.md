@@ -10,6 +10,8 @@ Edit `food-data.xlsx`, then run:
 powershell -ExecutionPolicy Bypass -File .\sync-data.ps1
 ```
 
+Or double-click `sync-data.bat` on Windows.
+
 Commit and push the updated files after `data/restaurants.json` changes.
 
 ## Cloudflare Pages
