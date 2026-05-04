@@ -1,0 +1,1489 @@
+{
+    "generatedFrom":  "D:\\gim\\food-web\\food-data.xlsx",
+    "generatedAt":  "2026-05-04T13:18:46",
+    "schemaVersion":  2,
+    "restaurants":  [
+                        {
+                            "id":  "木心炸蛋臭豆腐",
+                            "name":  "木心炸蛋臭豆腐",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區民族路33之6號",
+                            "latitude":  24.805822,
+                            "longitude":  120.974011,
+                            "mapUrl":  "https://www.google.com/maps/place/木心炸蛋臭豆腐/",
+                            "category":  "",
+                            "recommended":  "爆汁臭豆腐配酥脆炸蛋",
+                            "notes":  "咬下會爆汁，搭配酥脆炸蛋。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "10:30-20:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "10:30-20:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "10:30-20:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "10:30-20:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "10:30-20:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "10:30-20:00"
+                                                              ],
+                                                 "sunday":  [
+
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "劉家現炒",
+                            "name":  "劉家現炒",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區金山七街36號",
+                            "latitude":  24.777085,
+                            "longitude":  121.020524,
+                            "mapUrl":  "https://www.google.com/maps/place/劉家現炒/",
+                            "category":  "",
+                            "recommended":  "炸排骨、粒粒分明炒飯、大盤炒青菜",
+                            "notes":  "炸排骨份量驚人（加價 50 元），炒飯口感粒粒分明。",
+                            "openingHours":  {
+                                                 "monday":  [
+
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "10:30-15:30",
+                                                                 "17:00-21:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "10:30-15:30",
+                                                                   "17:00-21:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "10:30-15:30",
+                                                                  "17:00-21:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "10:30-15:30",
+                                                                "17:00-21:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "10:30-15:30",
+                                                                  "17:00-20:30"
+                                                              ],
+                                                 "sunday":  [
+                                                                "10:30-15:30",
+                                                                "17:00-21:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "魚氏湯麵",
+                            "name":  "魚氏湯麵-竹北福興店",
+                            "region":  "新竹縣竹北市",
+                            "city":  "新竹縣",
+                            "district":  "竹北市",
+                            "address":  "新竹縣竹北市福興東路二段62號",
+                            "latitude":  24.815233,
+                            "longitude":  121.025381,
+                            "mapUrl":  "https://www.google.com/maps/place/魚氏湯麵/",
+                            "category":  "",
+                            "recommended":  "石斑魚湯麵、椒麻皮蛋拌麵",
+                            "notes":  "石斑魚熬製乳白湯頭，湯鮮味美。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:00-22:30"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-22:30"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-22:30"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-22:30"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-22:30"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:00-22:30"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-22:30"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "王記酥餅",
+                            "name":  "王記酥餅",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區世界街2號",
+                            "latitude":  24.811568,
+                            "longitude":  120.973345,
+                            "mapUrl":  "https://www.google.com/maps/place/王記酥餅/",
+                            "category":  "",
+                            "recommended":  "小籠包、黃橋酥餅（鹹/甜）",
+                            "notes":  "一甲子在地老店。",
+                            "openingHours":  {
+                                                 "monday":  [
+
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "06:00-10:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "06:00-10:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "06:00-10:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "06:00-10:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "06:00-10:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "06:00-10:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "竹北甲上飯糰",
+                            "name":  "甲上飯糰竹北店",
+                            "region":  "新竹縣竹北市",
+                            "city":  "新竹縣",
+                            "district":  "竹北市",
+                            "address":  "新竹縣竹北市勝利十一路196號之一",
+                            "latitude":  24.825021,
+                            "longitude":  121.026034,
+                            "mapUrl":  "https://www.google.com/maps/place/甲上飯糰竹北店/",
+                            "category":  "",
+                            "recommended":  "飯糰",
+                            "notes":  "在地特色早餐。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "06:00-12:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "06:00-12:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "06:00-12:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "06:00-12:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "06:00-12:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "06:00-12:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "06:00-12:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "歐浮早餐",
+                            "name":  "歐浮找餐-new竹科店",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區新莊街42號1樓",
+                            "latitude":  24.786522,
+                            "longitude":  121.015011,
+                            "mapUrl":  "https://www.google.com/maps/place/歐浮找餐-竹科店/",
+                            "category":  "",
+                            "recommended":  "各類早餐",
+                            "notes":  "在地特色早餐。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "06:30-14:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "06:30-14:00"
+                                                             ],
+                                                 "wednesday":  [
+
+                                                               ],
+                                                 "thursday":  [
+                                                                  "06:30-14:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "06:30-14:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "06:30-15:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "06:30-15:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "傅記手工蛋餅",
+                            "name":  "傅記手工蛋餅",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區科學園路112號",
+                            "latitude":  24.781845,
+                            "longitude":  121.014275,
+                            "mapUrl":  "https://www.google.com/maps/place/傅記手工蛋餅/",
+                            "category":  "",
+                            "recommended":  "手工蛋餅",
+                            "notes":  "在地特色早餐。",
+                            "openingHours":  {
+                                                 "monday":  [
+
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "06:00-14:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "06:00-14:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "06:00-14:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "06:00-14:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "06:00-14:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "06:00-14:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "愛華火鍋",
+                            "name":  "愛華火鍋",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區埔頂二路120號",
+                            "latitude":  24.795021,
+                            "longitude":  121.012588,
+                            "mapUrl":  "https://www.google.com/maps/place/愛華火鍋/",
+                            "category":  "",
+                            "recommended":  "燒酒雞鍋、酸菜魚、銷魂滷肉飯、飛機餅乾霜淇淋",
+                            "notes":  "$299 起，提供獨特霜淇淋配料。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:30-14:30",
+                                                                "17:30-22:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:30-14:30",
+                                                                 "17:30-22:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:30-14:30",
+                                                                   "17:30-22:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:30-14:30",
+                                                                  "17:30-22:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:30-14:30",
+                                                                "17:30-22:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:30-23:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:30-23:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "石憶食鍋",
+                            "name":  "石憶食鍋",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區忠孝路51號",
+                            "latitude":  24.802133,
+                            "longitude":  120.988012,
+                            "mapUrl":  "https://www.google.com/maps/place/石憶食鍋/",
+                            "category":  "",
+                            "recommended":  "海鮮拼盤、壽星送蝦",
+                            "notes":  "海鮮拼盤份量大到用盆子裝。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-22:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-14:00",
+                                                                 "17:00-22:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-14:00",
+                                                                   "17:00-22:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-14:00",
+                                                                  "17:00-22:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-22:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:00-22:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-22:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "帝王食補",
+                            "name":  "帝王食補竹北自強店",
+                            "region":  "新竹縣竹北市",
+                            "city":  "新竹縣",
+                            "district":  "竹北市",
+                            "address":  "新竹縣竹北市自強南路185號",
+                            "latitude":  24.815598,
+                            "longitude":  121.025531,
+                            "mapUrl":  "https://www.google.com/maps/place/帝王食補竹北自強店/",
+                            "category":  "",
+                            "recommended":  "薑母鴨尬紅燒羊、椒鹽蝦、黃金麵線",
+                            "notes":  "滋補強身，特色薑母鴨與羊肉爐組合。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "16:00-02:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "16:00-02:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "16:00-02:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "16:00-02:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "16:00-02:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "16:00-02:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "16:00-02:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "新竹老媽蹄花湯",
+                            "name":  "新竹老媽蹄花湯",
+                            "region":  "新竹縣竹北市",
+                            "city":  "新竹縣",
+                            "district":  "竹北市",
+                            "address":  "新竹縣竹北市三民路",
+                            "latitude":  24.834012,
+                            "longitude":  121.010045,
+                            "mapUrl":  "https://www.google.com/maps/search/新竹老媽蹄花湯/",
+                            "category":  "",
+                            "recommended":  "濃郁豬蹄湯",
+                            "notes":  "湯頭濃郁，含有滿滿膠質。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-21:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-14:00",
+                                                                 "17:00-21:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-14:00",
+                                                                   "17:00-21:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-14:00",
+                                                                  "17:00-21:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-21:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:00-14:00",
+                                                                  "17:00-21:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-21:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "舌尖上的鮮味麵食",
+                            "name":  "小而大舌尖上的鮮味麵食二店",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區建功二路",
+                            "latitude":  24.800067,
+                            "longitude":  120.995032,
+                            "mapUrl":  "https://www.google.com/maps/place/小而大舌尖上的鮮味麵食二店/",
+                            "category":  "",
+                            "recommended":  "石斑魚湯、軟嫩紅燒牛肉麵",
+                            "notes":  "魚湯溫潤，牛肉麵肉質軟嫩。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-20:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-14:00",
+                                                                 "17:00-20:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-14:00",
+                                                                   "17:00-20:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-14:00",
+                                                                  "17:00-20:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-20:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:00-14:00",
+                                                                  "17:00-20:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-20:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "玖仰茶食文化",
+                            "name":  "玖仰茶食文化 新竹遠百店",
+                            "region":  "新竹市北區",
+                            "city":  "新竹市",
+                            "district":  "北區",
+                            "address":  "新竹市北區西門街54號",
+                            "latitude":  24.801533,
+                            "longitude":  120.963022,
+                            "mapUrl":  "https://www.google.com/maps/place/玖仰茶食文化/",
+                            "category":  "",
+                            "recommended":  "聯名黑醬拌麵、焦糖布丁芋泥冰",
+                            "notes":  "不限時茶館。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "08:00-22:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "08:00-22:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "08:00-22:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "08:00-22:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "08:00-22:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "08:00-22:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "08:00-22:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "阿秀米干",
+                            "name":  "阿秀米干",
+                            "region":  "桃園市中壢區",
+                            "city":  "桃園市",
+                            "district":  "中壢區",
+                            "address":  "桃園市中壢區龍平路209號",
+                            "latitude":  24.928811,
+                            "longitude":  121.254315,
+                            "mapUrl":  "https://www.google.com/maps/place/阿秀米干/",
+                            "category":  "",
+                            "recommended":  "米干",
+                            "notes":  "龍岡在地異國美食。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "05:00-14:30"
+                                                            ],
+                                                 "tuesday":  [
+
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "05:00-14:30"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "05:00-14:30"
+                                                              ],
+                                                 "friday":  [
+                                                                "05:00-14:30"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "05:00-19:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "05:00-19:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "歐告卷壽司",
+                            "name":  "歐告卷壽司",
+                            "region":  "桃園市平鎮區",
+                            "city":  "桃園市",
+                            "district":  "平鎮區",
+                            "address":  "桃園市平鎮區游泳路120巷14弄3號",
+                            "latitude":  24.922045,
+                            "longitude":  121.233066,
+                            "mapUrl":  "https://www.google.com/maps/place/歐告卷壽司/",
+                            "category":  "",
+                            "recommended":  "卷壽司",
+                            "notes":  "龍岡在地異國美食。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "09:00-20:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "09:00-20:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "09:00-20:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "09:00-20:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "09:00-20:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "09:00-20:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "09:00-20:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "福龍宮廟口快炒",
+                            "name":  "福龍宮廟口快炒",
+                            "region":  "桃園市中壢區",
+                            "city":  "桃園市",
+                            "district":  "中壢區",
+                            "address":  "桃園市中壢區龍岡路三段216號旁",
+                            "latitude":  24.935012,
+                            "longitude":  121.240033,
+                            "mapUrl":  "https://www.google.com/maps/place/福龍宮廟口快炒/",
+                            "category":  "",
+                            "recommended":  "各式快炒",
+                            "notes":  "廟口在地美食。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "17:00-00:00"
+                                                            ],
+                                                 "tuesday":  [
+
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "17:00-00:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "17:00-00:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "17:00-00:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "17:00-00:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "17:00-00:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "清真紅燒牛肉麵",
+                            "name":  "清真紅燒牛肉麵",
+                            "region":  "桃園市平鎮區",
+                            "city":  "桃園市",
+                            "district":  "平鎮區",
+                            "address":  "桃園市平鎮區龍安路18號",
+                            "latitude":  24.925066,
+                            "longitude":  121.248011,
+                            "mapUrl":  "https://www.google.com/maps/place/清真紅燒牛肉麵/",
+                            "category":  "",
+                            "recommended":  "紅燒牛肉麵",
+                            "notes":  "清真特色風味。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "10:00-14:00",
+                                                                "16:00-19:30"
+                                                            ],
+                                                 "tuesday":  [
+
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "10:00-14:00",
+                                                                   "16:00-19:30"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "10:00-14:00",
+                                                                  "16:00-19:30"
+                                                              ],
+                                                 "friday":  [
+                                                                "10:00-14:00",
+                                                                "16:00-19:30"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "10:00-14:00",
+                                                                  "16:00-19:30"
+                                                              ],
+                                                 "sunday":  [
+                                                                "10:00-14:00",
+                                                                "16:00-19:30"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "閃妹小廚",
+                            "name":  "清真合閃妹小廚",
+                            "region":  "桃園市平鎮區",
+                            "city":  "桃園市",
+                            "district":  "平鎮區",
+                            "address":  "桃園市平鎮區中山路29號",
+                            "latitude":  24.927045,
+                            "longitude":  121.250088,
+                            "mapUrl":  "https://www.google.com/maps/place/清真合閃妹小廚/",
+                            "category":  "",
+                            "recommended":  "特色餐點",
+                            "notes":  "龍岡在地異國美食。",
+                            "openingHours":  {
+                                                 "monday":  [
+
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "07:00-14:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "07:00-14:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "07:00-14:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "07:00-14:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "07:00-14:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "07:00-14:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "阿銘越南法國麵包",
+                            "name":  "阿銘越南法國麵包",
+                            "region":  "桃園市中壢區",
+                            "city":  "桃園市",
+                            "district":  "中壢區",
+                            "address":  "桃園市中壢區中龍街27號",
+                            "latitude":  24.929511,
+                            "longitude":  121.255012,
+                            "mapUrl":  "https://www.google.com/maps/place/阿銘越南法國麵包/",
+                            "category":  "",
+                            "recommended":  "越南法國麵包",
+                            "notes":  "地道越南風味。",
+                            "openingHours":  {
+                                                 "monday":  [
+
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "05:30-14:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "05:30-14:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "05:30-14:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "05:30-14:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "05:30-14:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "05:30-14:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "漢庄",
+                            "name":  "漢庄薑母鴨",
+                            "region":  "苗栗縣苗栗市",
+                            "city":  "苗栗縣",
+                            "district":  "苗栗市",
+                            "address":  "苗栗縣苗栗市中正路175號",
+                            "latitude":  24.566532,
+                            "longitude":  120.825045,
+                            "mapUrl":  "https://www.google.com/maps/place/漢庄/",
+                            "category":  "",
+                            "recommended":  "菜脯雞、水晶餃、腐乳辣椒沾醬",
+                            "notes":  "使用烏骨雞與老菜脯燉煮。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "16:00-00:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "16:00-00:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "16:00-00:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "16:00-00:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "16:00-00:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "16:00-00:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "16:00-00:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "彭湃客家土雞麵館",
+                            "name":  "彭湃客家土雞麵館",
+                            "region":  "苗栗縣三義鄉",
+                            "city":  "苗栗縣",
+                            "district":  "三義鄉",
+                            "address":  "苗栗縣三義鄉勝興村22鄰水美86號",
+                            "latitude":  24.405522,
+                            "longitude":  120.768015,
+                            "mapUrl":  "https://www.google.com/maps/place/彭湃客家土雞麵館/",
+                            "category":  "",
+                            "recommended":  "戰斧大骨湯、白斬土雞、乾拌麵",
+                            "notes":  "大骨湯的骨頭超大，視覺效果驚人。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:00-20:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-20:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-20:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-20:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-20:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:00-20:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-20:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "和老師麻油腰花",
+                            "name":  "和老師麻油腰花",
+                            "region":  "台中市北區",
+                            "city":  "台中市",
+                            "district":  "北區",
+                            "address":  "台中市北區中清路一段6號",
+                            "latitude":  24.153545,
+                            "longitude":  120.676511,
+                            "mapUrl":  "https://www.google.com/maps/place/和老師麻油腰花/",
+                            "category":  "",
+                            "recommended":  "麻油腰花、巨無霸雞腿",
+                            "notes":  "湯頭熬製 4 小時，腰花巨大脆彈，雞腿份量大。",
+                            "openingHours":  {
+                                                 "monday":  [
+
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "16:30-01:30"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "16:30-01:30"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "16:30-01:30"
+                                                              ],
+                                                 "friday":  [
+                                                                "16:30-01:30"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "16:30-01:30"
+                                                              ],
+                                                 "sunday":  [
+                                                                "16:30-01:30"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "空也素麵食",
+                            "name":  "空也素麵食",
+                            "region":  "台中市西屯區",
+                            "city":  "台中市",
+                            "district":  "西屯區",
+                            "address":  "台中市西屯區朝富五街10號",
+                            "latitude":  24.161044,
+                            "longitude":  120.635055,
+                            "mapUrl":  "https://www.google.com/maps/place/空也素麵食/",
+                            "category":  "",
+                            "recommended":  "清蒸臭豆腐、豆乳味噌拉麵",
+                            "notes":  "號稱素食界的天花板。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:00-21:30"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-21:30"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-21:30"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-21:30"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-21:30"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:00-21:30"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-21:30"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "王記大腸包小腸",
+                            "name":  "王記大腸包小腸＆水果玉米",
+                            "region":  "南投縣草屯鎮",
+                            "city":  "南投縣",
+                            "district":  "草屯鎮",
+                            "address":  "南投縣草屯鎮玉屏路",
+                            "latitude":  23.985011,
+                            "longitude":  120.686034,
+                            "mapUrl":  "https://www.google.com/maps/place/王記大腸包小腸/",
+                            "category":  "",
+                            "recommended":  "大腸包小腸",
+                            "notes":  "配料極多（小黃瓜絲、薑片、蒜片），建議預約。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "09:30-16:30"
+                                                            ],
+                                                 "tuesday":  [
+
+                                                             ],
+                                                 "wednesday":  [
+
+                                                               ],
+                                                 "thursday":  [
+                                                                  "09:30-16:30"
+                                                              ],
+                                                 "friday":  [
+                                                                "09:30-16:30"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "09:30-16:30"
+                                                              ],
+                                                 "sunday":  [
+                                                                "09:30-16:30"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "草屯超大黑糖饅頭",
+                            "name":  "草屯超大黑糖饅頭",
+                            "region":  "南投縣草屯鎮",
+                            "city":  "南投縣",
+                            "district":  "草屯鎮",
+                            "address":  "南投縣草屯鎮玉屏路179號",
+                            "latitude":  23.985532,
+                            "longitude":  120.686521,
+                            "mapUrl":  "https://www.google.com/maps/place/草屯超大黑糖饅頭/",
+                            "category":  "",
+                            "recommended":  "黑糖饅頭",
+                            "notes":  "份量巨大的特色饅頭。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "09:30-17:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "09:30-17:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "09:30-17:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "09:30-17:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "09:30-17:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "09:30-17:00"
+                                                              ],
+                                                 "sunday":  [
+
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "根源ㄚ粉圓",
+                            "name":  "根源包ㄚ粉圓 草屯店",
+                            "region":  "南投縣草屯鎮",
+                            "city":  "南投縣",
+                            "district":  "草屯鎮",
+                            "address":  "南投縣草屯鎮中正路或市區",
+                            "latitude":  23.978011,
+                            "longitude":  120.685022,
+                            "mapUrl":  "https://www.google.com/maps/search/根源包ㄚ粉圓/",
+                            "category":  "",
+                            "recommended":  "粉圓",
+                            "notes":  "在地特色美食。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "10:00-18:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "10:00-18:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "10:00-18:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "10:00-18:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "10:00-18:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "10:00-18:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "10:00-18:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "橘子布",
+                            "name":  "BUBU ART CAFE 橘子布藝術咖啡 南投草屯店",
+                            "region":  "南投縣草屯鎮",
+                            "city":  "南投縣",
+                            "district":  "草屯鎮",
+                            "address":  "南投縣草屯鎮虎山路708號",
+                            "latitude":  23.963022,
+                            "longitude":  120.690044,
+                            "mapUrl":  "https://www.google.com/maps/place/橘子布藝術咖啡/",
+                            "category":  "",
+                            "recommended":  "名畫吐司",
+                            "notes":  "富有視覺創意的吐司餐點。",
+                            "openingHours":  {
+                                                 "monday":  [
+
+                                                            ],
+                                                 "tuesday":  [
+
+                                                             ],
+                                                 "wednesday":  [
+
+                                                               ],
+                                                 "thursday":  [
+
+                                                              ],
+                                                 "friday":  [
+
+                                                            ],
+                                                 "saturday":  [
+                                                                  "10:30-17:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "10:30-17:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "鮮奶奶",
+                            "name":  "鮮奶奶-草屯店",
+                            "region":  "南投縣草屯鎮",
+                            "city":  "南投縣",
+                            "district":  "草屯鎮",
+                            "address":  "南投縣草屯鎮炎峰街127號",
+                            "latitude":  23.975056,
+                            "longitude":  120.681022,
+                            "mapUrl":  "https://www.google.com/maps/place/鮮奶奶/",
+                            "category":  "",
+                            "recommended":  "焦糖豆花",
+                            "notes":  "在地特色甜點。",
+                            "openingHours":  {
+                                                 "monday":  [
+
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-21:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-21:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-21:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-21:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:00-21:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-18:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "艷麗 Pondok Sunny",
+                            "name":  "艷麗 Pondok Sunny",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區南大路52號",
+                            "latitude":  24.800539,
+                            "longitude":  120.975498,
+                            "mapUrl":  "https://www.google.com/maps/search/?api=1\u0026query=艷麗+Pondok+Sunny+新竹市東區南大路52號",
+                            "category":  "",
+                            "recommended":  "南洋叻沙、手工 Sambal 醬、斑蘭蛋糕、娘惹糕",
+                            "notes":  "正宗南洋風味。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:30-20:30"
+                                                            ],
+                                                 "tuesday":  [
+
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:30-20:30"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:30-20:30"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:30-20:30"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:30-20:30"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:30-20:30"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "光復路餐車湯包",
+                            "name":  "餐車湯包",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區光復路一段2-1號",
+                            "latitude":  24.7831,
+                            "longitude":  121.0202,
+                            "mapUrl":  "https://www.google.com/maps/search/?api=1\u0026query=24.7831,121.0202",
+                            "category":  "",
+                            "recommended":  "",
+                            "notes":  "",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "06:00-10:30"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "06:00-10:30"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "06:00-10:30"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "06:00-10:30"
+                                                              ],
+                                                 "friday":  [
+                                                                "06:00-10:30"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "06:00-10:30"
+                                                              ],
+                                                 "sunday":  [
+
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "榮師傅麵食館",
+                            "name":  "榮師傅麵食館",
+                            "region":  "新竹市東區",
+                            "city":  "新竹市",
+                            "district":  "東區",
+                            "address":  "新竹市東區光復路二段10巷15號",
+                            "latitude":  24.796962,
+                            "longitude":  120.997315,
+                            "mapUrl":  "https://www.google.com/maps/search/?api=1\u0026query=榮師傅麵食館",
+                            "category":  "",
+                            "recommended":  "招牌炒泡麵、沙茶豬肉炒飯、胡椒味滷肉飯",
+                            "notes":  "炒泡麵份量超大（兩人份），炒飯粒粒分明沙茶味香，滷肉飯肥肉偏多配胡椒粒。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-20:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:00-14:00",
+                                                                 "17:00-20:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:00-14:00",
+                                                                   "17:00-20:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:00-14:00",
+                                                                  "17:00-20:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-20:00"
+                                                            ],
+                                                 "saturday":  [
+
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:00-14:00",
+                                                                "17:00-20:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "魚來囉",
+                            "name":  "魚來囉",
+                            "region":  "台中市大里區",
+                            "city":  "台中市",
+                            "district":  "大里區",
+                            "address":  "台中市大里區仁化路565號 (土地公廟斜後方)",
+                            "latitude":  24.0945,
+                            "longitude":  120.703,
+                            "mapUrl":  "https://www.google.com/maps/search/?api=1\u0026query=%E9%AD%9A%E4%BE%86%E5%9B%89+%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E9%87%8C%E5%8D%80%E4%BB%81%E5%8C%96%E8%B7%AF565%E8%99%9F",
+                            "category":  "",
+                            "recommended":  "生魚片、巨大握壽司、溫醋飯",
+                            "notes":  "市場隱藏版店家，提供特殊魚種。",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "休息"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "15:00-20:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "15:00-20:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "15:00-20:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "15:00-20:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "15:00-20:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "15:00-20:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "",
+                            "dataStatus":  "",
+                            "lastVerified":  "2026-05-04",
+                            "dataIssues":  [
+
+                                           ]
+                        }
+                    ]
+}
