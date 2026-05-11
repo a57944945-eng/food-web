@@ -1,6 +1,6 @@
 {
     "generatedFrom":  "D:\\gim\\food-web-deploy\\food-data.xlsx",
-    "generatedAt":  "2026-05-05T10:29:09",
+    "generatedAt":  "2026-05-11T09:29:49",
     "schemaVersion":  2,
     "restaurants":  [
                         {
@@ -1627,51 +1627,6 @@
                                            ]
                         },
                         {
-                            "id":  "木心 炸蛋臭豆腐",
-                            "name":  "木心炸蛋臭豆腐 [1.2]",
-                            "region":  "新竹市東區",
-                            "city":  "新竹市",
-                            "district":  "東區",
-                            "address":  "新竹市東區民族路33之6號",
-                            "latitude":  24.805052,
-                            "longitude":  120.971823,
-                            "mapUrl":  "https://www.google.com/maps/place/木心炸蛋臭豆腐/@24.805052,120.971823,17z",
-                            "category":  "",
-                            "recommended":  "臭豆腐中心挖空填入蒜泥與醬汁，上方覆蓋一顆大顆的酥炸半熟蛋（炸蛋）",
-                            "notes":  "「外酥內嫩」的層次感，並建議搭配店內的辣椒醬與泡菜一起享用。",
-                            "openingHours":  {
-                                                 "monday":  [
-                                                                "10:30-20:00"
-                                                            ],
-                                                 "tuesday":  [
-                                                                 "10:30-20:00"
-                                                             ],
-                                                 "wednesday":  [
-                                                                   "10:30-20:00"
-                                                               ],
-                                                 "thursday":  [
-                                                                  "10:30-20:00"
-                                                              ],
-                                                 "friday":  [
-                                                                "10:30-20:00"
-                                                            ],
-                                                 "saturday":  [
-                                                                  "10:30-20:00"
-                                                              ],
-                                                 "sunday":  [
-
-                                                            ]
-                                             },
-                            "closedNote":  "",
-                            "source":  "",
-                            "sourceUrl":  "https://www.facebook.com/share/r/1ESEEgE7um/?mibextid=wwXIfr",
-                            "dataStatus":  "",
-                            "lastVerified":  "",
-                            "dataIssues":  [
-
-                                           ]
-                        },
-                        {
                             "id":  "鳳凰城炸雞光復店",
                             "name":  "鳳凰城炸雞光復店",
                             "region":  "新竹市東區",
@@ -1755,6 +1710,51 @@
                             "closedNote":  "",
                             "source":  "",
                             "sourceUrl":  "https://www.facebook.com/share/r/1DFy6bTSj2/?mibextid=wwXIfr",
+                            "dataStatus":  "",
+                            "lastVerified":  "",
+                            "dataIssues":  [
+
+                                           ]
+                        },
+                        {
+                            "id":  "茶水間",
+                            "name":  "茶水間",
+                            "region":  "南投縣埔里鎮",
+                            "city":  "南投縣",
+                            "district":  "埔里鎮",
+                            "address":  "南投縣埔里鎮南安路163號",
+                            "latitude":  23.961054,
+                            "longitude":  120.966952,
+                            "mapUrl":  "https://www.google.com/maps/place/茶水間/@23.961054,120.966952,17z",
+                            "category":  "",
+                            "recommended":  "珍珠奶茶、招牌乾拌麵、炸芋粿、奶酥厚片",
+                            "notes":  "",
+                            "openingHours":  {
+                                                 "monday":  [
+                                                                "11:30-22:00"
+                                                            ],
+                                                 "tuesday":  [
+                                                                 "11:30-22:00"
+                                                             ],
+                                                 "wednesday":  [
+                                                                   "11:30-22:00"
+                                                               ],
+                                                 "thursday":  [
+                                                                  "11:30-22:00"
+                                                              ],
+                                                 "friday":  [
+                                                                "11:30-22:00"
+                                                            ],
+                                                 "saturday":  [
+                                                                  "11:30-22:00"
+                                                              ],
+                                                 "sunday":  [
+                                                                "11:30-22:00"
+                                                            ]
+                                             },
+                            "closedNote":  "",
+                            "source":  "",
+                            "sourceUrl":  "https://www.facebook.com/share/r/18eH3ehc2k/?mibextid=wwXIfr",
                             "dataStatus":  "",
                             "lastVerified":  "",
                             "dataIssues":  [
